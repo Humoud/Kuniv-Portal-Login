@@ -16,7 +16,7 @@ Install splinter
 Usage
 ---------
 
-Type in your username and password in place off xxx and yyy
+Edit the script. Type in your username and password in place off xxx and yyy:
   ```
   browser.fill('username','xxxxx')    # enter student ID
   browser.fill('password','yyyyy')   # enter password
